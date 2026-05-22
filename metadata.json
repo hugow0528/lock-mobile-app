@@ -1,0 +1,6 @@
+{
+  "name": "Focus Lock",
+  "description": "A high-fidelity focus locker app designed to block addictive social media and track daily productivity metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
